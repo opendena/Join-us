@@ -33,6 +33,6 @@ Denaroo, c'est :
 * des projets qui te permettent fréquemment d'essayer de nouveaux langages ou technos.
 * un goût prononcé pour la veille techno, l'expérimentation, le café, les bières et les blagues à 2 balles...
 
-On se rencontre ? contact-job@denaroo.com !  
+Ca te tente ? envois-nous un CV à contact-jobs@denaroo.com !  
 
 A bientôt.
