@@ -1,12 +1,12 @@
-## CDI DEVOPS (DEV Backend, Sysadmin/Devops, Administrateur BDD + some other daily shits..)
+## CDI DEVOPS Mutant (DEV Backend, Sysadmin/Devops, Administrateur BDD + some other daily shits..)
 
 Cher(ère) informaticien(enne) bien cablé(e),
 
 [DENAROO](http://www.denaroo.com), société créée en 2007, qui édite la solution [WEB2CONTACT](http://www.web2contact.com), cherche un(e) nouveau(elle) collaborateur(trice) pour rejoindre son équipe.
 
-Idéalement, on cherche un(e) AdminSys qui a pris le train Devops, et qui connait aussi un peu le monde du développement.
+Idéalement, on cherche un(e) AdminSys qui a pris le train Devops, et qui connait le monde du développement pour déployer aussi des outils backoffice et participer un peu aussi à la mise en place et l'amélioration des APIs de production.
 
-Tu justifies d'une expérience en informatique sur des systèmes à forte charge et disponibilités. (Gestion de base de données à fort volume, administration  des environnements associés, et aussi un peu de développement Backend pour automatiser/monitorer tout çà...).
+C'est encore mieux si tu justifies d'une expérience en informatique sur des systèmes à forte charge et disponibilités. (Gestion de base de données à fort volume, administration  des environnements associés, et aussi un peu de développement Backend pour automatiser/monitorer tout çà...).
 
 Tu sais comprendre une structure de base de données pour requêter en bas niveau et sortir quelques stats ou mettre en avant des erreurs d'indexs ou de requêtes.
 
