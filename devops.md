@@ -1,4 +1,4 @@
-## CDI DEVOPS et plus si affinités. (DEV Backend, Sysadmin/Devops, Administrateur BDD + some other daily shits..)
+## CDI DEVOPS (DEV Backend, Sysadmin/Devops, Administrateur BDD + some other daily shits..)
 
 Cher(ère) informaticien(enne) bien cablé(e),
 
