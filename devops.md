@@ -8,7 +8,7 @@ Idéalement, on cherche un(e) AdminSys qui a pris le train Devops, et qui connai
 
 Tu justifies d'une expérience en informatique sur des systèmes à forte charge et disponibilités. (Gestion de base de données à fort volume, administration  des environnements associés, et aussi un peu de développement Backend pour automatiser/monitorer tout çà...).
 
-Tu sais comprendre une structure de base de données pour requêter en bas niveau et sortir quelques stats ou mettre en avant des erreurs d'indexs ou de requêtes fronts.
+Tu sais comprendre une structure de base de données pour requêter en bas niveau et sortir quelques stats ou mettre en avant des erreurs d'indexs ou de requêtes.
 
 Dans l'optique de développement des systèmes, tu seras amené(e) à mettre en place des systèmes de réplication, backup, monitoring, optimisation et déploiement automatisé.
 
