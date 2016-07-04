@@ -28,7 +28,7 @@ Parmi les technologies qu'on utilise actuellement :
 Denaroo, c'est :
 * des locaux spacieux situés [en plein centre ville d'Amiens](https://goo.gl/maps/MJTJpSL8jcG2), à deux pas du quartier St-leu.
 * une équipe à taille humaine, souriante, sympathique, et tournée vers la satisfaction client
-* des développeurs et développements qui utilisent les technos innovantes pour fournir un produit à la pointe techniquement mais aussi 100% fonctionnel.
+* des développeurs et développements qui utilisent les technos innovantes mais stable pour fournir un produit à la pointe techniquement mais aussi 100% fonctionnel.
 * des clients du secteur privé: des PME, grands groupes, et TPE.
 * des projets qui te permettent fréquemment d'essayer de nouveaux langages ou technos.
 * un goût prononcé pour la veille techno, l'expérimentation, le café, les bières et les blagues à 2 balles...
