@@ -12,7 +12,7 @@ Tu sais comprendre une structure de base de données pour requêter en bas nivea
 
 Dans l'optique de développement des systèmes, tu seras amené(e) à mettre en place des systèmes de réplication, backup, monitoring, optimisation et déploiement automatisé.
 
-Tu sais maintenir un environnement de production et le faire évoluer, version 2015 à 2020.
+Tu sais maintenir un environnement de production et le faire évoluer, version 2017 à 2020.
 
 Tu apprends vite, tu sais t'organiser, communiquer avec tes collègues, partager ton travail. Tu sais comment tester ton propre code et comment le mettre en production. 
 
