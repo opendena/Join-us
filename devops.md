@@ -21,9 +21,10 @@ Tu apprends vite, tu sais t'organiser, communiquer avec tes collègues, partager
 - Sensibilité sur l'analyse de données / statistiques / monitoring (l'expérience est un plus) 
 
 Parmi les technologies qu'on utilise actuellement : 
-- PHP, NodeJS, Debian
+- PHP, JS / NodeJS
 - Système de téléphonie Voip.
 - Nginx, Ansible, Mysql, Redis, CouchBase.
+- Debian
 
 Denaroo, c'est :
 * des locaux spacieux situés [en plein centre ville d'Amiens](https://goo.gl/maps/MJTJpSL8jcG2), à deux pas du quartier St-leu.
@@ -31,7 +32,7 @@ Denaroo, c'est :
 * des développeurs et développements qui utilisent les technos innovantes mais stable pour fournir un produit à la pointe techniquement mais aussi 100% fonctionnel.
 * des clients du secteur privé: des PME, grands groupes, et TPE.
 * des projets qui te permettent fréquemment d'essayer de nouveaux langages ou technos.
-* un goût prononcé pour la veille techno, l'expérimentation, le café, les bières et les blagues à 2 balles...
+* un goût prononcé pour la veille techno, l'expérimentation, le café ou le thé, et les blagues à 2 balles...
 
 Ca te tente ? envois-nous un CV à contact-jobs@denaroo.com !  
 
