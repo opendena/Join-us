@@ -4,7 +4,7 @@ Cher(ère) informaticien(enne) bien cablé(e),
 
 [DENAROO](http://www.denaroo.com), société créée en 2007, qui édite la solution [WEB2CONTACT](http://www.web2contact.com), cherche un(e) nouveau(elle) collaborateur(trice) pour rejoindre son équipe.
 
-Idéalement, on cherche un(e) AdminSys qui a pris le train Devops, et qui connait le monde du développement pour déployer aussi des outils backoffice et participer un peu aussi à la mise en place et l'amélioration des APIs de production.
+Idéalement, on cherche un(e) AdminSys qui a pris le train Devops, et qui connait le monde du développement pour aider aussi sur des outils backoffice et participer un peu aussi à la mise en place et l'amélioration des APIs de production.
 
 C'est encore mieux si tu justifies d'une expérience en informatique sur des systèmes à forte charge et disponibilités. (Gestion de base de données à fort volume, administration  des environnements associés, et aussi un peu de développement Backend pour automatiser/monitorer tout çà...).
 
@@ -34,6 +34,6 @@ Denaroo, c'est :
 * des projets qui te permettent fréquemment d'essayer de nouveaux langages ou technos.
 * un goût prononcé pour la veille techno, l'expérimentation, le café ou le thé, et les blagues à 2 balles...
 
-Ca te tente ? envois-nous un CV à contact-jobs@denaroo.com !  
+Ca te tente ? envois-nous un CV et tes attentes au niveau salaire à contact-jobs@denaroo.com !  
 
 A bientôt.
