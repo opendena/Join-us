@@ -12,7 +12,7 @@ Tu sais maintenir un environnement de production et le faire évoluer, version 2
 
 Tu apprends vite et seul, tu es ouvert au débat technique, tu sais t'organiser et communiquer avec tes collègues, partager ton travail. 
 
-Nous pensons que le Lead developpeur doit participer aux devs.. sur tous les projets en cours, donc tu sais coder, comment tester ton propre code et comment le mettre en production.
+Nous pensons que le Lead developpeur doit participer aux devs.. sur tout les projets en cours, donc tu sais coder, comment tester ton propre code et comment le mettre en production.
 
 - Autonome et rigoureux(euse)
 - Forte appétence pour l'univers start-up 
@@ -25,12 +25,12 @@ Parmi les technologies qu'on utilise actuellement :
 - Debian
 
 Denaroo, c'est :
-* des locaux spacieux situés [en plein centre ville d'Amiens](https://goo.gl/maps/MJTJpSL8jcG2), à deux pas du quartier St-leu.
-* une équipe à taille humaine, souriante, sympathique, et tournée vers la satisfaction client
-* des développeurs et développements qui utilisent les technos innovantes mais stable pour fournir un produit à la pointe techniquement mais aussi 100% fonctionnel.
-* des clients du secteur privé: des PME, grands groupes, et TPE.
-* des projets qui te permettent fréquemment d'essayer de nouveaux langages ou technos.
-* un goût prononcé pour la veille techno, l'expérimentation, le café ou le thé, et les blagues à 2 balles...
+- des locaux spacieux situés [en plein centre ville d'Amiens](https://goo.gl/maps/MJTJpSL8jcG2), à deux pas du quartier St-leu.
+- une équipe à taille humaine, souriante, sympathique, et tournée vers la satisfaction client
+- des développeurs et développements qui utilisent les technos innovantes mais stable pour fournir un produit à la pointe techniquement mais aussi 100% fonctionnel.
+- des clients du secteur privé: des PME, grands groupes, et TPE.
+- des projets qui te permettent fréquemment d'essayer de nouveaux langages ou technos.
+- un goût prononcé pour la veille techno, l'expérimentation, le café ou le thé, et les blagues à 2 balles...
 
 Ca te tente ? envois-nous un CV et tes attentes au niveau salaire à contact-jobs@denaroo.com !  
 
