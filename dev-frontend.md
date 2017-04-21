@@ -1,4 +1,4 @@
-## CDI/CDD Developpeur FrontEnd confirmé avec des compétences en UI/UX
+## CDI/CDD/FREELANCE Developpeur FrontEnd confirmé avec des compétences en UI/UX
 
 Cher(ère) informaticien(enne) bien cablé(e),
 
