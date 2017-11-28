@@ -1,10 +1,10 @@
-## CDI/CDD DEVOPS Mutant (DEV FullStack, Sysadmin/Devops, Administrateur BDD + tout le reste...)
+## CDI - SYSADMIN / DEVOPS (Sysadmin/Devops, Administrateur BDD + tout le reste...)
 
 Cher(ère) informaticien(enne) bien cablé(e),
 
 [DENAROO](http://www.denaroo.com), société créée en 2007, qui édite la solution [WEB2CONTACT](http://www.web2contact.com), cherche un(e) nouveau(elle) collaborateur(trice) pour rejoindre son équipe.
 
-Idéalement, on cherche un(e) AdminSys qui a pris le train Devops, et qui connait le monde du développement pour aider aussi sur des outils backoffice et participer un peu aussi à la mise en place et l'amélioration des APIs de production.
+Idéalement, on cherche un(e) SysAdmin qui a pris le train Devops, et qui connait le monde du développement pour aider aussi sur des outils backoffice et participer un peu aussi à la mise en place et l'amélioration des APIs de production.
 
 C'est encore mieux si tu justifies d'une expérience en informatique sur des systèmes à forte charge et disponibilités. (Gestion de base de données à fort volume, administration  des environnements associés, et aussi un peu de développement Backend pour automatiser/monitorer tout çà...).
 
@@ -23,7 +23,7 @@ Tu apprends vite, tu sais t'organiser, communiquer avec tes collègues, partager
 Parmi les technologies qu'on utilise actuellement : 
 - PHP, JS / NodeJS
 - Système de téléphonie Voip.
-- Nginx, Ansible, Mysql, Redis, CouchBase.
+- Nginx, Ansible, Mysql, Redis, ElasticSearch, InfluxDb, Telegraf.
 - Debian
 
 Denaroo, c'est :
