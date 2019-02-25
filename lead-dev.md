@@ -8,7 +8,7 @@ En tête de l'équipe de développement avec 2 développeurs pour t'aider, et so
 
 Avec une bonne connaissance des concepts informatiques et réseaux derrière Internet, tu justifies d'une expérience sur des systèmes à forte charge et disponibilités. (Gestion de base de données à fort volume, administration  des environnements associés, et développement Backend pour publier/automatiser/améliorer tout çà...).
 
-Tu sais maintenir un environnement de production et le faire évoluer, version 2017 à 2022.
+Tu sais maintenir un environnement de production et le faire évoluer.
 
 Tu apprends vite et seul(e), tu es ouvert(e) au débat technique, tu sais t'organiser et communiquer avec tes collègues, partager ton travail.
 
