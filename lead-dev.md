@@ -12,7 +12,7 @@ Tu sais maintenir un environnement de production et le faire évoluer.
 
 Tu apprends vite et seul(e), tu es ouvert(e) au débat technique, tu sais t'organiser et communiquer avec tes collègues, partager ton travail.
 
-Nous pensons que le(a) Lead developpeur(se) doit participer aux devs.. sur tout les projets en cours... donc tu sais coder, comment tester ton propre code, comment le mettre en production, comment changer de chemin quand l'existant ou les choix initiaux ne sont plus valables et qu'il faut malgré tout produire.
+Nous pensons que le(a) Lead developpeur(se) doit participer aux devs.. sur tous les projets en cours... donc tu sais coder, comment tester ton propre code, comment le mettre en production, comment changer de chemin quand l'existant ou les choix initiaux ne sont plus valables et qu'il faut malgré tout produire.
 
 - Autonome et rigoureux(euse)
 - Forte appétence pour l'univers start-up
@@ -21,9 +21,9 @@ Nous pensons que le(a) Lead developpeur(se) doit participer aux devs.. sur tout 
 Parmi les technologies qu'on utilise actuellement :
 - PHP, NodeJS, AngularJs et autres frameworks JS
 - Système de téléphonie Voip.
-- Nginx, Ansible, Mysql, Redis, CouchBase.
+- Nginx, Ansible, Mysql, Redis, ElasticSearch.
 - Debian
-- Toute tecnho qui sera la plus adaptée au besoin identifié.
+- Toute techno qui sera la plus adaptée au besoin identifié.
 
 Denaroo, c'est :
 - des locaux spacieux situés [en plein centre ville d'Amiens](https://goo.gl/maps/MJTJpSL8jcG2), à deux pas du quartier St-leu.
