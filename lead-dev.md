@@ -1,4 +1,4 @@
-## CDI Lead Developper cher DENAROO (DEV FullStack avec connaissance Sysadmin/Devops & Administrateur BDD)
+## CDI Lead Developper cher DENAROO
 
 Cher(ère) informaticien(enne) bien cablé(e),
 
