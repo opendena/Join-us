@@ -7,7 +7,7 @@ Cher(ère) informaticien(enne) bien cablé(e),
 Idéalement, nous cherchons un(e) SysAdmin qui a pris le train Devops, et qui aime aussi le monde du développement pour gérer et créer les outils backoffice pour configurer / deployer / monitorer. 
 On cherche une personne pour nous aider à gérer la prod. Ses pics, ses fails, ses surprises. Tout ce qui fait le quotidien d'un système informatique devant restait opérationnel.
 
-C'est encore mieux si vous justifiez d'une expérience sur des systèmes à forte charge et disponibilités. (Gestion de base de données avec beaucoup de données, administration  des environnements associés, et aussi un peu de développement Backend pour automatiser/monitorer tout çà...).
+C'est encore mieux si vous justifiez d'une expérience sur des systèmes à forte charge et Haute disponibilité ou vous êtes passionné. (Gestion de base de données avec beaucoup de données, administration  des environnements associés, et aussi un peu de développement Backend pour automatiser/monitorer les environnements).
 
 Vous savez comprendre un MCD pour requêter en bas niveau et sortir quelques stats ou mettre en avant des erreurs d'indexes ou de requêtes et isoler un problème de performance sur un système (problème logiciel vs problème matériel/système).
 
@@ -35,8 +35,8 @@ Denaroo, c'est :
 - une équipe à taille humaine, souriante, sympathique, et tournée vers la satisfaction client
 - des développeurs et développements qui utilisent les technos innovantes mais stable pour fournir un produit à la pointe techniquement mais aussi 100% fonctionnel.
 - des clients du secteur privé: des PME, grands groupes, et TPE.
-- des projets qui te permettent fréquemment d'essayer de nouveaux langages ou technos.
-- un goût prononcé pour la veille techno, l'innovation, l'évolution de ton métier, le café ou le thé, et les blagues à 2 balles...
+- des projets qui vous permettent fréquemment d'essayer de nouveaux langages ou technos.
+- un goût prononcé pour la veille techno, l'innovation, l'évolution de votre métier, le café ou le thé, et les blagues à 2 balles...
 
 Ca vous tente ? envoyez-nous un CV et vos attentes salariales à contact-jobs@denaroo.com !  
 
