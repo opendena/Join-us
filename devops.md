@@ -17,7 +17,7 @@ Vous savez maintenir un environnement de production et le faire évoluer, versio
 
 Une bonne capacité d'analyse est nécessaire pour identifier et isoler les causes possibles lors d'incidents ainsi que la capacité à comprendre et gérer une environnement de production dans son ensemble avec chaque élément interconnecté.
 
-Vous apprennez vite, vous savez vous organiser, communiquer avec vos collègues et partager votre travail (wiki / documentation à jour et ciblée). 
+Vous apprenez vite, vous savez vous organiser, communiquer avec vos collègues et partager votre travail (wiki / documentation à jour et ciblée). 
 Vous savez comment tester ce que vous faites et comment le mettre en production de manière transparente pour les utilisateurs. 
 
 - Autonome et rigoureux(euse)
